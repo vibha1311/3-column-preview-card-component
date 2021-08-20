@@ -1,6 +1,6 @@
-# Frontend Mentor - Stats preview card component solution
+# Frontend Mentor - 3-column preview card component solution
 
-This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -14,6 +14,8 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 - [Author](#author)
 
 
+
+
 ## Overview
 
 ### The challenge
@@ -21,26 +23,18 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 Users should be able to:
 
 - View the optimal layout depending on their device's screen size
+- See hover states for interactive elements
 
 ### Screenshot
 
-Desktop version
-
-![Desktop version
-](https://github.com/vibha1311/vibha1311.github.io/blob/main/screenshot/desktop-version.png)
-
-
-Mobile version
-
-![Mobile version
-](https://github.com/vibha1311/vibha1311.github.io/blob/main/screenshot/mobile-version.png)
+![Desktop version](https://github.com/vibha1311/3-column-preview-card-component/blob/main/screenshots/desktop.png)
 
 
 
 ### Links
 
-- Solution URL: [Click here](https://github.com/vibha1311/vibha1311.github.io)
-- Live Site URL: [Click here](https://vibha1311.github.io/)
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 
@@ -49,14 +43,12 @@ Mobile version
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- Desktop-first workflow
 
-## Continued development
-
+### Continued development
 
 Will do more of these challenges to improve my skills.
 
 ## Author
 
-- Website - [Vibha](https://www.your-site.com)
-- Frontend Mentor - [@vibha1311](https://www.frontendmentor.io/profile/yourusername)
+- Website - [vibha](https://www.your-site.com)
+- Frontend Mentor - [@vibha1311](https://www.frontendmentor.io/profile/vibha1311)
